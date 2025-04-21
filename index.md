@@ -9,3 +9,8 @@ int main(){
 str name = "Euigwapo";
 cout<<name;
 }
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
